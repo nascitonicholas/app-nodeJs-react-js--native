@@ -1,5 +1,5 @@
 node_modules
-Backend/src/database/*
+./Backend/src/database/*
 =======
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
